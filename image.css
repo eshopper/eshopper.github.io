@@ -1,0 +1,68 @@
+html
+{
+	font-family:sans-serif;
+}
+.wrap1 ul li
+{
+	list-style:none;
+	display:inline;
+	padding-left:90px;
+	font-size:20px;
+
+}
+.wrap1 ul
+{
+	padding-left:120px;
+	background-color: #dfe3ee;
+}
+.wrap1 ul a
+{
+	text-decoration:none;
+	color:#00007A;
+}
+.wrap2
+{
+	background-color: #3b5998;
+	font-size:25px;
+	height:520px;
+	color:#dfe3ee;
+	padding-top:65px;
+	padding-left:50px;
+	
+}
+img
+{
+	padding-top:20px;
+}
+.scrollbar
+{
+	height:30px;
+	overflow-y:scroll;
+	float-left;
+}
+
+li a:hover
+{
+	
+	
+	font-size:150%;
+	
+}
+h4
+{
+
+	text-align:right;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

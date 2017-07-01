@@ -1,0 +1,72 @@
+html
+{
+	font-family:sans-serif;
+}
+.wrap1 ul li
+{
+	list-style:none;
+	display:inline;
+	padding-left:90px;
+	font-size:20px;
+
+}
+.wrap1 ul
+{
+	padding-left:120px;
+	background-color: #dfe3ee;
+}
+.wrap1 ul a
+{
+	text-decoration:none;
+	color:#00007A;
+}
+.wrap2
+{
+	background-color: #3b5998;
+	height:570px;
+	color:#dfe3ee;
+	font-size:20px;
+	
+}
+h1
+{
+	text-align:center;
+	
+}
+ 
+.scrollbar
+{
+	height:35px;
+	overflow-y:scroll;
+	float-left;
+}
+
+li a:hover
+{
+	
+	
+	font-size:150%;
+	
+}
+p
+{
+	font-size:30px;
+	padding-left:50px;
+	padding-right:50px;
+}
+h4
+{
+
+	text-align:right;
+}
+
+
+
+
+
+
+
+
+
+
+
